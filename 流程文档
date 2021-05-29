@@ -1,5 +1,0 @@
-1.生成公私钥
-调用SecurityEncryptUtil main方法   公钥交换，私钥保留
-2.调用流程
-调用MsgSendTest main方法
-解密验签调用MsgAnalysisTest main方法
