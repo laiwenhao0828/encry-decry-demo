@@ -14,7 +14,7 @@ public class MsgSendTest {
         TuoTuoManageReq request = new TuoTuoManageReq();
         request.setParamObj("nihao");
         request.setUrl("http://localhost:9001/camelloanweb/kth/preliminariesPush");
-        request.setMerchantNo("dhgate");
+        request.setMerchantNo("1122");
         request.setVersion("1.0");
         TuoTuoManageFacade tuoTuoManageFacade = new TuoTuoManageFacade();
         BaseResp baseResp = tuoTuoManageFacade.execute(request);
