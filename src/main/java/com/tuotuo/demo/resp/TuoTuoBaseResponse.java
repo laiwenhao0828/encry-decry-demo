@@ -1,9 +1,10 @@
 package com.tuotuo.demo.resp;
 
 /**
- * @author weili
- * @date 2020/11/29
- */
+ * @Author xch
+ * @Date 2021/5/24 16:38
+ * @Version 1.0
+ **/
 public class TuoTuoBaseResponse {
 
     private String version;
