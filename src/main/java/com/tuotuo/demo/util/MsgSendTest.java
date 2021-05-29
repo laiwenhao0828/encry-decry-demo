@@ -13,7 +13,7 @@ public class MsgSendTest {
     public static void main(String[] args) {
         TuoTuoManageReq request = new TuoTuoManageReq();
         request.setParamObj("nihao");
-        request.setUrl("http://localhost:9001/camelloanweb/kth/preliminariesPush");
+        request.setUrl("url");
         request.setMerchantNo("1122");
         request.setVersion("1.0");
         TuoTuoManageFacade tuoTuoManageFacade = new TuoTuoManageFacade();
