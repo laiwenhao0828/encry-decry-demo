@@ -2,9 +2,10 @@ package com.tuotuo.demo.req;
 
 
 /**
- * @author weili
- * @date 2020/11/29
- */
+ * @Author xch
+ * @Date 2021/5/24 16:38
+ * @Version 1.0
+ **/
 public class TuoTuoManageReq {
 
     private String url;
